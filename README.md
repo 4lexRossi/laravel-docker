@@ -9,7 +9,7 @@
 
 ## Sobre esse Repositório
 
-endereço da imagem [](docker.io/4lexossi/laravel-docker:v3)
+endereço da imagem [docker.io/4lexossi/laravel-docker:v3](docker.io/4lexossi/laravel-docker:v3)
 
 essa é uma imagem com as seguintes configurações:
 > Nginx
